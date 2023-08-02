@@ -1,7 +1,7 @@
 # Shofy - Beauty & Cosmetics – Full Stack eCommerce Web Application + Admin Panel
 
 
-![Shofy Image Banner](https://i.ibb.co/sVxv3VP/beauty-cosmetics.png)
+![Shofy Image Banner](https://i.ibb.co/yBHL1wj/beauty-cosmetics.png)
 
 Shofy Beauty & Cosmetics is a powerful and modern full stack eCommerce web application built using Next.js, Express.js, MongoDB with Mongoose, Redux Toolkit, RTK Query, Stripe payment method, Bootstrap 5, and Sass. It includes a feature-rich admin panel for easy management and control of your online store.
 
