@@ -69,7 +69,7 @@ const Menus = () => {
             <div className="home-menu tp-submenu tp-mega-menu">
 
 
-            <div className="container-fluid pl-7 pr-7">
+            <div className="container-fluid">
           <div className="row row-cols-lg-4 row-cols-sm-2 row-cols-1 gx-2 gy-2 gy-lg-0">
             {instagram_data.map((item) => (
               <div className="col" key={item.id}>
