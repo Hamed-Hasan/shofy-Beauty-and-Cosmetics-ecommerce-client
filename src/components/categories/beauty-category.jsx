@@ -5,8 +5,9 @@ import ErrorMsg from "../common/error-msg";
 import { ArrowRightSm, ArrowRightSmTwo } from "@/svg";
 import { useGetProductTypeCategoryQuery } from "@/redux/features/categoryApi";
 import { HomeThreeCategoryLoader } from "../loader";
-
+import { useRouter } from "next/router";
 const BeautyCategory = () => {
+  const router = useRouter();
   const {
     data: categories,
     isLoading,
